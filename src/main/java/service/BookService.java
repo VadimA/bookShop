@@ -5,6 +5,7 @@ import neo.pro.annotation.Loggable;
 import neo.pro.domain.Book;
 import neo.pro.generator.NumberGenerator;
 
+import javax.enterprise.inject.Default;
 import javax.inject.Inject;
 import java.util.Date;
 
